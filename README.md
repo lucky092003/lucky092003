@@ -28,7 +28,7 @@ I’m an MCA student at UPES (University of Petroleum and Energy Studies) with a
 
 ### 📈 Top Languages  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky092003&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky092003&layout=compact&theme=radical&langs_count=10&cache_seconds=86400" />
 </div>
 
 ---
