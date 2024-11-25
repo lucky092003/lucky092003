@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
+</div>
 
-<!--
-**lucky092003/lucky092003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm **Lucky Patel**
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+I’m an MCA student at UPES (University of Petroleum and Energy Studies) with a strong focus on Artificial Intelligence and Machine Learning. I'm passionate about creating intelligent systems, exploring data-driven solutions, and continuously learning new techniques in the AI/ML space. This GitHub profile is where I showcase my projects, contributions, and experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technologies & Tools  
+- **Programming Languages:** Python | Java | C  
+- **Data Science & ML:** Pandas | NumPy | Scikit-learn | TensorFlow  
+- **Web Development:** HTML | CSS | JavaScript  
+- **Tools & Platforms:** Git | Visual Studio Code | Jupyter Notebooks  
+
+---
+
+### 🌟 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucky-patel&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky-patel&theme=radical" alt="GitHub Streak" width="48%" />
+</div>
+
+---
+
+### 📈 Top Languages  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-patel&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+- **Professional Summary**
+ Energetic Student with balanced background in sports and extra curricular activities. Diligent about preparing for
+ examinations competitions and assignments. Reliable and responsible with good communication and relationship-building
+ abilities.
+
+---
+
+### 🌍 Let's Connect  
+- 💼 [LinkedIn](https://www.linkedin.com/in/luckypatel09/)  
+- 📧 [Email Me](mailto:luckypatel822@gmail.com)
+- 💻 [LeetCode](https://leetcode.com/u/luckypatel092003/)  
+
+---
+
+- **Thanks for visiting my GitHub!**
