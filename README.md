@@ -20,7 +20,7 @@ I’m an MCA student at UPES (University of Petroleum and Energy Studies) with a
 ### 🌟 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucky092003&show_icons=true&theme=radical&hide=prs,contribs" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky092003&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=lucky092003&theme=radical" alt="GitHub Streak" width="48%" />
 </div>
 
 
