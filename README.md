@@ -21,7 +21,6 @@ I build intelligent systems and turn machine learning ideas into practical, work
 
 ## Tech Stack
 
-## 🛠️ Tech Stack
 
 | Category | Technologies |
 |:--|:--|
