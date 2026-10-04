@@ -61,14 +61,19 @@ I build intelligent systems and turn machine learning ideas into practical, work
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucky092003&show_icons=true&theme=radical&hide=prs,contribs" alt="GitHub Stats" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=lucky092003&theme=radical" alt="GitHub Streak" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky092003&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=lucky092003&show_icons=true&theme=radical&hide=prs,contribs&hide_border=true" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=lucky092003&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky092003&layout=compact&theme=radical&langs_count=6&hide_border=true" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
