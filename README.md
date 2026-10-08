@@ -59,7 +59,7 @@ I build intelligent systems and turn machine learning ideas into practical, work
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=lucky092003&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=lucky092003&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" width="55%" />
     </td>
   </tr>
 </table>
