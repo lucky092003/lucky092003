@@ -48,10 +48,11 @@ I build intelligent systems and turn machine learning ideas into practical, work
 
 ## GitHub Activity
 
+<!-- Note: The stats card highlights commit-related metrics, while GitHub contribution graphs also include PRs, issues, reviews, and other activity types. -->
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=lucky092003&show_icons=true&theme=radical&hide_border=true&card_width=480" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=lucky092003&show_icons=true&theme=radical&hide_border=true&card_width=480&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="100%" />
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky092003&layout=compact&theme=radical&langs_count=8&hide_border=true&card_width=480" alt="Top Languages" width="100%" />
@@ -59,7 +60,7 @@ I build intelligent systems and turn machine learning ideas into practical, work
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=lucky092003&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" width="55%" />
+      <img src="https://streak-stats.demolab.com/?user=lucky092003&theme=radical&hide_border=true&border_radius=10&mode=daily&timezone=Asia%2FKolkata&cache_seconds=1800" alt="GitHub Streak" width="55%" />
     </td>
   </tr>
 </table>
